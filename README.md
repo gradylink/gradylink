@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gradylink
+- 👋 Hi, I’m Grady Link
 - 👀 I’m interested in low level development and learning Zig
 - 🌱 I’m currently learning how to develop things in and around Desmos
 - 💞️ I’m looking to collaborate on anything

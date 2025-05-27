@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @gradylink
+- 👀 I’m interested in low level development and learning Zig
+- 🌱 I’m currently learning how to develop things in and around Desmos
+- 💞️ I’m looking to collaborate on anything
+- 📫 You can reach me with my email: contact@grady.link
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm autistic

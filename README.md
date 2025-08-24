@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grady Link
 - 👀 I’m interested in console homebrew and learning Zig
-- 🌱 I’m currently working on Scratch Everywhere!
+- 🌱 I’m currently working on [Scratch Everywhere](https://github.com/NateXS/Scratch-Everywhere)!
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me with my email: contact@grady.link
 - 😄 Pronouns: He/Him

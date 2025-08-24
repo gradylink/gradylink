@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grady Link
 - 👀 I’m interested in console homebrew and learning Zig
-- 🌱 I’m currently working on Scratch 3DS
+- 🌱 I’m currently working on Scratch Everywhere!
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me with my email: contact@grady.link
 - 😄 Pronouns: He/Him
